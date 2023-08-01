@@ -1,4 +1,4 @@
 # MSP430-FR-5969
 This code is for connecting the AD5941 Electrochemical Front End (EFE) provided by Analog Devices (AD) to the MSP430FR5969 microcontroller provided by Texas Instruments (TI).
-The first project (adc) covers Open Circuit Potential (OCP) measurments through differential voltage measurements perfomed using the embedded 16-bit ADC and the input multiplexer.
-The second project (amperometric) covers the amperometric measurement perfomed using the low bandwidth AFE loop (dual VDAC and trans-impedance amplifier). 
+The first code project (adc) is used to perform Open Circuit Potential (OCP) measurements through differential voltage measurements via the embedded 16-bit ADC and the input multiplexer.
+The second code project (amperometric) covers the amperometric measurement performed using the low bandwidth AFE loop (dual VDAC source module and the trans-impedance amplifier circuit). 
