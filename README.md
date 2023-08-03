@@ -2,9 +2,9 @@
 * Contributors: Mahdi Saleh
 * Supervision: Prof. Alex Casson
 <br />
-Codes and tutorials for implementing low-cost and low-power portable impedance and electrochemical measurement systems.\
+Codes and tutorials for implementing low-cost and low-power portable impedance and electrochemical measurement systems.
 <br />
-One prototype of this platform is used to interface novel electrochemical sweat sensors implemented on flexible substrates.\
+One prototype of this platform is used to interface novel electrochemical sweat sensors implemented on flexible substrates.
 <br />
 
 ![IMG-20230427-WA0004 - Copy](https://github.com/Non-Invasive-Bioelectronics-Lab/Portable-Electrochemical-Sensing/assets/48448186/ce8a9be7-88c5-43f0-ac80-90110c3696a5)
