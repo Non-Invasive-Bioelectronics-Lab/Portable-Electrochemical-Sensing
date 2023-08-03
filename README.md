@@ -1,5 +1,5 @@
 # Portable-Electrochemical-Sensing
-<br />
+
 * Contributors: Mahdi Saleh
 * Supervision: Prof. Alex Casson
 <br />
