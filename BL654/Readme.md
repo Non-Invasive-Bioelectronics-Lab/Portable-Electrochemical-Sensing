@@ -1,4 +1,4 @@
-# Portable-Electrochemical-Sensing: BL654-nRF52840 connected to AD5940/41      
+# BL654-nRF52840 connected to AD5940/41      
 
 BL654 (nRF52840) board connected to AD5940/41 electrochemical front end from Analog Devices to implement voltametric, amperometric, and impedometric measurements.     
 
