@@ -1,0 +1,21 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "nrf-connect.applications": [
+        "${workspaceFolder}"
+    ],
+    "nrf-connect.toolchain.path": "${nrf-connect.toolchain:2.1.0}",
+    "files.associations": {
+        "string": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "ranges": "c",
+        "utility": "c",
+        "bas.h": "c",
+        "printk.h": "c",
+        "conn.h": "c",
+        "stdio.h": "c",
+        "settings.h": "c",
+        "ias.h": "c"
+    }
+}

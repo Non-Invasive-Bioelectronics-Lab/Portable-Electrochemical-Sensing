@@ -1,0 +1,2 @@
+osource "c:/users/mahdi/documents/github/bl654-nrf52840/amperometric_polling_bl654/boards/shields/*/Kconfig.defconfig"
+osource "C:/ncs/v2.1.2/nrf/boards/shields/*/Kconfig.defconfig"
